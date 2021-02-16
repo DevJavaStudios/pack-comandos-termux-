@@ -303,9 +303,6 @@ def pedido_3_pt():
 			elif menu3 == "12":
 				nexphisher()
 				
-			elif menu3 == "33":
-				sabrinabot()
-
 			else:
 				erro()
 
