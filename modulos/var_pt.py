@@ -150,6 +150,9 @@ def pedido_1_pt():
 			elif menu == "32":
 				sherlock()
 
+		        elif menu == "33":
+				sabrinabot()
+
 			else:
 				erro()
 
