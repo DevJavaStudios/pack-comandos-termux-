@@ -42,6 +42,7 @@ def pedido_1_pt():
 			print ("  [30] Seeker")
 			print ("  [31] Twifo-cli")
 			print ("  [32] Sherlock")
+			print ("  [33] sabrinabot")
 			print ("  [00] Para Voltar\n")
 			print (random.choice(dicas_menu1_pt))
 			print ("\n")
@@ -298,6 +299,9 @@ def pedido_3_pt():
 
 			elif menu3 == "12":
 				nexphisher()
+				
+			elif menu3 == "33":
+				sabrinabot()
 
 			else:
 				erro()
