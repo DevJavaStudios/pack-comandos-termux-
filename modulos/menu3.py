@@ -112,3 +112,12 @@ def nexphisher():
 	os.system("bash tmux_setup")
 	cc()
 	restart_program()
+	
+def sabrinabot():
+	update()
+	os.system("https://github.com/DevJavaStudios/sabrinaonline")
+	os.system("cd ~/cd sabrinaonline ~")
+	os.system("chmod +x")
+	os.system("sh badut.sh")
+	cc()
+	restart_program()
